@@ -1,2 +1,3 @@
+rootProject.name = 'eventregistration'
 include ':EventRegistration-Backend'
 
