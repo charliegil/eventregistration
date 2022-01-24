@@ -4,10 +4,10 @@ package ca.mcgill.ecse321.eventregistration;
 // import org.springframework.boot.test.context.SpringBootTest;
 
 // @SpringBootTest
-// class EventRegistrationBackendApplicationTests {
+ class EventRegistrationBackendApplicationTests {
 
-// 	@Test
-// 	void contextLoads() {
-// 	}
+ 	//@Test
+ 	void contextLoads() {
+ 	}
 
-// }
+ }
